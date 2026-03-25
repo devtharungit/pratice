@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 test 4 line added
 =======
 git 4 th line added by master
 >>>>>>> a8a100367c9ca70fa2dae43addad403614a7a812
+=======
+git 4 th line added by master
+>>>>>>> master
